@@ -1,1 +1,3 @@
 # odin-recipe
+This project is recipe project which i am going to make it in html to 
+demonstrate the skills i have developed so far in both git/github and html and i am looking fowerd for the css lesson so that i can come back and style this recipe site and after css i can't wait to learn javascript which i am so exited for and make this site responsive so yeah so far everything is going great and i am enjoying it
